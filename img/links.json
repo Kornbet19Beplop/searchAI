@@ -1,0 +1,109 @@
+{
+    "aiLinks": {
+      "entry1": {
+        "keywords": [
+          "chatgpt",
+          "ai",
+          "chat",
+          "conversation",
+          "openai",
+          "language model",
+          "natural language processing",
+          "chatbot",
+          "text generation",
+          "ai chat",
+          "ai language",
+          "advanced chat",
+          "conversational ai",
+          "smart chat",
+          "text ai",
+          "gpt model",
+          "openai chat",
+          "intelligent conversation",
+          "responsive chat",
+          "language understanding"
+        ],
+        "link": "https://chat.openai.com/"
+      },
+      "entry2": {
+        "keywords": [
+          "claude",
+          "ai",
+          "chat",
+          "bot",
+          "chat bot",
+          "digital human",
+          "natural language",
+          "virtual assistant",
+          "virtual human",
+          "anthropic ai",
+          "conversation",
+          "friendly ai",
+          "intelligent assistant"
+        ],
+        "link": "https://claude.ai/chat"
+      },
+      "entry3": {
+        "keywords": [
+          "cody",
+          "doctor",
+          "health",
+          "CodyMD",
+          "AI doctor",
+          "medical chatbot",
+          "symptom checker",
+          "machine learning in medicine",
+          "emergency medicine",
+          "critical care",
+          "patient care",
+          "evidence-based medicine"
+        ],
+        "link": "https://cody.md/"
+      },
+      "entry4": {
+        "keywords": [
+          "bard",
+          "google",
+          "chatbot",
+          "AI",
+          "language model",
+          "assistant",
+          "question-answering",
+          "writing",
+          "summarizing",
+          "translating",
+          "coding",
+          "creative",
+          "informative",
+          "help",
+          "research",
+          "assistant",
+          "chat",
+          "talk",
+          "interact",
+          "query",
+          "tool",
+          "platform",
+          "search",
+          "information",
+          "knowledge"
+        ],
+        "link": "https://bard.google.com"
+      },
+      "entry5": {
+        "keywords": [
+          "Gencraft",
+          "AI Art Generator",
+          "art creation",
+          "AI-generated art",
+          "unique images",
+          "unique videos",
+          "creative designs",
+          "high-res images",
+          "high-res videos"
+        ],
+        "link": "https://gencraft.com/"
+      }
+    }
+  }
+  
