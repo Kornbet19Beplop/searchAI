@@ -1,0 +1,259 @@
+{
+    "aiLinks": {
+      "entry1": {
+        "keywords": [
+          "chatgpt",
+          "ai",
+          "chat",
+          "conversation",
+          "openai",
+          "language model",
+          "natural language processing",
+          "chatbot",
+          "text generation",
+          "ai chat",
+          "ai language",
+          "advanced chat",
+          "conversational ai",
+          "smart chat",
+          "text ai",
+          "gpt model",
+          "openai chat",
+          "intelligent conversation",
+          "responsive chat",
+          "language understanding"
+        ],
+        "link": "https://chat.openai.com/"
+      },
+      "entry2": {
+        "keywords": [
+          "claude",
+          "ai",
+          "chat",
+          "bot",
+          "chat bot",
+          "digital human",
+          "natural language",
+          "virtual assistant",
+          "virtual human",
+          "anthropic ai",
+          "conversation",
+          "friendly ai",
+          "intelligent assistant"
+        ],
+        "link": "https://claude.ai/chat"
+      },
+      "entry3": {
+        "keywords": [
+          "cody",
+          "doctor",
+          "health",
+          "CodyMD",
+          "AI doctor",
+          "medical chatbot",
+          "symptom checker",
+          "machine learning in medicine",
+          "emergency medicine",
+          "critical care",
+          "patient care",
+          "evidence-based medicine"
+        ],
+        "link": "https://cody.md/"
+      },
+      "entry4": {
+        "keywords": [
+          "bard",
+          "google",
+          "chatbot",
+          "AI",
+          "language model",
+          "assistant",
+          "question-answering",
+          "writing",
+          "summarizing",
+          "translating",
+          "coding",
+          "creative",
+          "informative",
+          "help",
+          "research",
+          "assistant",
+          "chat",
+          "talk",
+          "interact",
+          "query",
+          "tool",
+          "platform",
+          "search",
+          "information",
+          "knowledge"
+        ],
+        "link": "https://bard.google.com"
+      },
+      "entry5": {
+        "keywords": [
+          "Gencraft",
+          "AI Art Generator",
+          "art creation",
+          "AI-generated art",
+          "unique images",
+          "unique videos",
+          "creative designs",
+          "high-res images",
+          "high-res videos"
+        ],
+        "link": "https://gencraft.com/"
+      },
+      "entry6": {
+        "keywords": [
+          "ai art generator",
+          "image generation",
+          "text to image",
+          "creative design",
+          "photo realistic",
+          "imagine engine",
+          "artistic rendering",
+          "cgi studio",
+          "visualizer",
+          "dream scenes"
+        ],
+        "link": "https://www.midjourney.com/"
+      },
+      "entry7": {
+        "keywords": [
+          "ai art generator",
+          "image generation",
+          "text to image",
+          "creative design",
+          "photo realistic",
+          "imagine engine",
+          "artistic rendering",
+          "cgi studio",
+          "visualizer",
+          "dream scenes"
+        ],
+        "link": "https://openai.com/blog/dall-e-2/"
+      },
+      "entry8": {
+        "keywords": [
+          "ai art generator",
+          "creative design",
+          "humorous images",
+          "funny images",
+          "strange images ",
+          "weird images",
+          "text to image",
+          "image generator",
+          "meme creator",
+          "image playground"
+        ],
+        "link": "https://www.craiyon.com/"
+      },
+      "entry9": {
+        "keywords": [
+          "image upscaling",
+          "increase resolution",
+          "enhance image",
+          "high resolution",
+          "crisp image",
+          "sharp image",
+          "hd image",
+          "4k upscaler",
+          "photo enlarger",
+          "picture enhancer"
+        ],
+        "link": "https://imglarger.com/"
+      },
+      "entry10": {
+        "keywords": [
+          "watermark removal",
+          "image watermark",
+          "photo watermark",
+          "video watermark",
+          "transparent overlay",
+          "branding cleaner",
+          "copyright eraser",
+          "background delete",
+          "graphic design cleaner",
+          "photography cleaner"
+        ],
+        "link": "https://watermarkremover.io/"
+      },
+      "entry11": {
+        "keywords": [
+          "photo editing",
+          "image enhancement",
+          "photo effects",
+          "filters",
+          "touch up",
+          "background changer",
+          "object removal",
+          "photo retoucher",
+          "portrait editor",
+          "graphic editor"
+        ],
+        "link": "https://www.fotor.com/"
+      },
+      "entry12": {
+        "keywords": [
+          "content writer",
+          "ai writer",
+          "blog writer",
+          "article writer",
+          "essay generator",
+          "paper generator",
+          "social post creator",
+          "marketing copy",
+          "seo copywriting",
+          "long form assistant"
+        ],
+        "link": "https://www.jasper.ai/"
+      },
+      "entry13": {
+        "keywords": [
+          "meme generator",
+          "caption memes",
+          "text memes",
+          "caption maker",
+          "meme maker",
+          "multilingual memes",
+          "international memes",
+          "caption overloader",
+          "caption picturizer",
+          "caption visualizer"
+        ],
+        "link": "https://supermeme.ai/"
+      },
+      "entry14": {
+        "keywords": [
+          "ai music",
+          "text to music",
+          "music composition",
+          "custom song",
+          "theme song",
+          "soundtrack",
+          "audio creator",
+          "melody from text",
+          "vocal synthesis",
+          "lyrical composition"
+        ],
+        "link": "https://soundful.com/"
+      },
+      "entry15": {
+        "keywords": [
+          "medical diagnosis",
+          "symptom checker",
+          "ask doctor",
+          "health answers",
+          "medical q&a",
+          "diagnose condition",
+          "disease identifier",
+          "illness checker",
+          "web md alternative ",
+          "online second opinion"
+        ],
+        "link": "https://you.com/"
+      }
+    }
+  }
+  
